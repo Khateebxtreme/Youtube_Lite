@@ -1,6 +1,6 @@
-# YOUTUBE_LITE
+# Youtube_Lite
 
-**YOUTUBE_LITE** is a powerful and user-friendly web application that emulates some of the key features and functionalities of the popular video-sharing platform, Youtube . It includes basic features like video search , video playback and displaying a myriad of videos sorted by different categories.This project was implemented using various technologies / Libraries like React , Material-UI and Youtube-V3 API.
+**Youtube_Lite** is a powerful and user-friendly web application that emulates some of the key features and functionalities of the popular video-sharing platform, Youtube . It includes basic features like video search , video playback and displaying a myriad of videos sorted by different categories.This project was implemented using various technologies / Libraries like React , Material-UI and Youtube-V3 API.
 
 ## Table of Contents
 - [Features](#features)
