@@ -95,7 +95,7 @@ Create a **config.js** file in utils folder to hold your Rapid API key which wil
 ## Notes
 
 - **Hosting Services :**  netlify
-- **Youtube-V3 API DRL :**  500
+- **Youtube-V3 API MRL (for requests) :**  200
 - **Max Results :** 50 videos per API call ( Hard Limit )
 
 
